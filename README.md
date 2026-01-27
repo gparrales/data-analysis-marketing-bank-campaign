@@ -1,6 +1,10 @@
 # data-analysis-marketing-bank-campaign
 Analiza el desempeño de una campaña de marketing directo de una entidad financiera orientada a la captación de inversiones a plazo fijo. A través de un proceso de análisis exploratorio de datos (EDA) y limpieza de datos, se procesaron más de 41,000 registros para identificar los factores críticos que impulsan la conversión de clientes.
 
+Problema de negocio:
+
+Los equipos comerciales de una entidad financiera buscaban entender qué factores influyen en la probabilidad de que un cliente acepte una oferta tras una llamada telefónica.
+
 Conjuntos de datos: 
 El dataset contiene información demográfica y financiera de los clientes del banco, así como también información de las interacciones (llamadas) como duración de la llamada, contactos previos y cantidad de contactos previos, aceptación del producto, etc.
 
